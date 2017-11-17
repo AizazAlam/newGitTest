@@ -1,1 +1,2 @@
-New file for local Git Dir
+New file for local Git Dir. 
+New line in file by web version. 
