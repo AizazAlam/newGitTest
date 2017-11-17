@@ -1,5 +1,5 @@
 New file for local Git Dir. 
-New line in file by web version. 
+WEB CHANGE FOR CONFLICT
 New line #2 from local PC. 
 New line #3 added by Web Client.
 New line #5 from local PC. 
